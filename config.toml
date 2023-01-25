@@ -127,3 +127,4 @@ defaultContentLanguageInSubdir = false
   category = "categories"
   portfolio = "portfolio"
   author = "authors"
+  publications = "publications"
