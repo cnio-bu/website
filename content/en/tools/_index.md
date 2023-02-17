@@ -20,13 +20,13 @@ hero:
 
 # List of tools
 
-- Appris
-- Beyondcell
-- Bicycle
-- Bollito
-- Dreimt
-- Pandrugs
-- Nextpresso
-- Varca
-- Trifid
-- VulcanSpot
+- [Appris](https://appris.bioinfo.cnio.es/#/) 
+- [Beyondcell](https://github.com/cnio-bu/beyondcell)
+- [Bicycle](http://www.sing-group.org/bicycle/)
+- [Bollito](https://github.com/cnio-bu/bollito)
+- [Dreimt](http://dreimt.org/)
+- [Pandrugs](https://www.pandrugs.org)
+- [Nextpresso]
+- [Varca](https://github.com/cnio-bu/varca)
+- [Trifid]
+- [VulcanSpot](http://vulcanspot.org/)
