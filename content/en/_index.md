@@ -42,4 +42,8 @@ blog:
   enabled: false
   show_view_all: false
   limit: 3
+training:
+  enabled: false
+  show_view_all: false
+  limit: 3
 ---
