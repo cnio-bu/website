@@ -1,6 +1,6 @@
 ---
 title: "Dreimt"
-description: "Tool."
+description: "A tool for prioritization of drugs capable of modulating the immune system."
 date: 2023-02-17
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: "Pandrugs"
-description: "Tool."
+description: "A platform to guide the selection of therapies from the results of genome-wide studies in cancer disease."
 date: 2023-02-17
 menu:
   main:

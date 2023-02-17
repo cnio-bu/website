@@ -1,6 +1,6 @@
 ---
 title: "Varca"
-description: "Tool."
+description: "A pipeline for targeted DNAseq variant detection."
 date: 2023-02-17
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: "Bicycle"
-description: "Tool."
+description: "A stand-alone and multiplatform application for bisulfite-seq analysis."
 date: 2023-02-17
 menu:
   main:

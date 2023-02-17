@@ -1,6 +1,6 @@
 ---
 title: "Bollito"
-description: "Tool."
+description: "A comprehensive, end-to-end Snakemake pipeline for single cell RNA-seq."
 date: 2023-02-17
 menu:
   main:
