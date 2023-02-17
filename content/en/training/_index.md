@@ -1,9 +1,19 @@
 ---
 title: 'Training'
-date: 2018-02-22T17:01:34+07:00
+description: 
+date: 2018-02-10T11:52:18+07:00
+summary_type: "summary-background"
+header_transparent: true
 menu:
-  footer_tertiary:
-    weight: 1
+  main:
+    weight: 2
+  footer_primary:
+    weight: 2
+thumbnail: "images/cnio/fatima_gon.jpg"
+hero:
+  background: "images/cnio/fatima_gon.jpg"
+  blend_mode: "overlay"
+  theme: "primary"
 ---
 
 
