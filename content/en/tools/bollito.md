@@ -7,8 +7,7 @@ menu:
     weight: 4
     parent: "tools"
 weight: 4
-icon: "images/icons/icons8-adobe_indesign.png"
-thumbnail: "images/gen/services/service-3-thumbnail.webp"
+thumbnail: "images/tools/bollito_logo.png"
 hero:
   background: "images/gen/services/service-3.webp"
   blend_mode: "normal"
