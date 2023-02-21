@@ -1,6 +1,6 @@
 ---
 title: "Tools"
-description: "CNIO Bioinformatics Unit Tools."
+description: "CNIO Bioinformatics Unit Tools"
 date: 2023-02-17
 menu:
   main:
