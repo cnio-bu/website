@@ -26,7 +26,7 @@ hero:
 - [Bollito](https://github.com/cnio-bu/bollito)
 - [Dreimt](http://dreimt.org/)
 - [Pandrugs](https://www.pandrugs.org)
-- [Nextpresso]
+- [Nextpresso](http://ubio.bioinfo.cnio.es/people/ograna/nextpresso/)
 - [Varca](https://github.com/cnio-bu/varca)
-- [Trifid]
+- [Trifid](https://github.com/fpozoc/trifid)
 - [VulcanSpot](http://vulcanspot.org/)
