@@ -1,5 +1,5 @@
 ---
-title: "Bollito"
+title: "bollito"
 description: "A comprehensive, end-to-end Snakemake pipeline for single cell RNA-seq."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Bollito
+# bollito
 
-- [Bollito website](https://github.com/cnio-bu/bollito)
+- [bollito website](https://github.com/cnio-bu/bollito)
 
 

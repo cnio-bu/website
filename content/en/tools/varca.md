@@ -1,5 +1,5 @@
 ---
-title: "Varca"
+title: "varca"
 description: "A pipeline for targeted DNAseq variant detection."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Varca
+# varca
 
-- [Varca website](https://github.com/cnio-bu/varca)
+- [varca website](https://github.com/cnio-bu/varca)
 
 

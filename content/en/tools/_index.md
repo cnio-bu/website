@@ -20,13 +20,13 @@ hero:
 
 # List of tools
 
-- [Appris](https://appris.bioinfo.cnio.es/#/) 
+- [APPRIS](https://appris.bioinfo.cnio.es/#/) 
 - [Beyondcell](https://github.com/cnio-bu/beyondcell)
-- [Bicycle](http://www.sing-group.org/bicycle/)
-- [Bollito](https://github.com/cnio-bu/bollito)
-- [Dreimt](http://dreimt.org/)
-- [Nextpresso](http://ubio.bioinfo.cnio.es/people/ograna/nextpresso/)
-- [Pandrugs](https://www.pandrugs.org)
-- [Trifid](https://github.com/fpozoc/trifid)
-- [Varca](https://github.com/cnio-bu/varca)
-- [VulcanSpot](http://vulcanspot.org/)
+- [bicycle](http://www.sing-group.org/bicycle/)
+- [bollito](https://github.com/cnio-bu/bollito)
+- [DREIMT](http://dreimt.org/)
+- [next*presso*](http://ubio.bioinfo.cnio.es/people/ograna/nextpresso/)
+- [PanDrugs](https://www.pandrugs.org)
+- [TRIFID](https://github.com/fpozoc/trifid)
+- [varca](https://github.com/cnio-bu/varca)
+- [vulcanSpot](http://vulcanspot.org/)

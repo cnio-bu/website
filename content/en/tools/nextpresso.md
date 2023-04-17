@@ -1,5 +1,5 @@
 ---
-title: "Nextpresso"
+title: nextpresso
 description: "A comprehensive RNA-seq data analysis workflow, comprising the most common needs demanded by experimental biologists."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Nextpresso
+# next*presso*
 
-- [Nextpresso website](http://ubio.bioinfo.cnio.es/people/ograna/nextpresso/)
+- [next*presso* website](http://ubio.bioinfo.cnio.es/people/ograna/nextpresso/)
 
 

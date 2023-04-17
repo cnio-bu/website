@@ -1,5 +1,5 @@
 ---
-title: "Pandrugs"
+title: "PanDrugs"
 description: "A platform to guide the selection of therapies from the results of genome-wide studies in cancer disease."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Pandrugs
+# PanDrugs
 
-- [Pandrugs website](https://www.pandrugs.org)
+- [PanDrugs website](https://www.pandrugs.org)
 
 

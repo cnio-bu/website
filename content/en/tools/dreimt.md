@@ -1,5 +1,5 @@
 ---
-title: "Dreimt"
+title: "DREIMT"
 description: "A tool for prioritization of drugs capable of modulating the immune system."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Dreimt
+# DREIMT
 
-- [Dreimt website](http://dreimt.org/)
+- [DREIMT website](http://dreimt.org/)
 
 

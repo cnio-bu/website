@@ -1,5 +1,5 @@
 ---
-title: "Trifid"
+title: "TRIFID"
 description: "A method to assess the functional relevance of splice isoforms."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Trifid
+# TRIFID
 
-- [Trifid website](https://github.com/fpozoc/trifid)
+- [TRIFID website](https://github.com/fpozoc/trifid)
 
 

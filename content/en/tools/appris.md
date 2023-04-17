@@ -1,5 +1,5 @@
 ---
-title: "Appris"
+title: "APPRIS"
 description: "The APPRIS database and web services annotate alternative splice variants and select a single variant as the main (principal) isoform."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Appris
+# APPRIS
 
-- [Appris website](https://appris.bioinfo.cnio.es/#/)
+- [APPRIS website](https://appris.bioinfo.cnio.es/#/)
 
 

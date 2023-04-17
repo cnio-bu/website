@@ -1,5 +1,5 @@
 ---
-title: "Bicycle"
+title: "bicycle"
 description: "A stand-alone and multiplatform application for bisulfite-seq analysis."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Bicycle
+# bicycle
 
-- [Bicycle website](http://www.sing-group.org/bicycle/)
+- [bicycle website](http://www.sing-group.org/bicycle/)
 
 

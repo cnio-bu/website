@@ -1,5 +1,5 @@
 ---
-title: "VulcanSpot"
+title: "vulcanSpot"
 description: "A method for detecting and targeting cancer genetic dependencies."
 date: 2023-02-17
 menu:
@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# VulcanSpot
+# vulcanSpot
 
-- [VulcanSpot website](http://vulcanspot.org/)
+- [vulcanSpot website](http://vulcanspot.org/)
 
 
