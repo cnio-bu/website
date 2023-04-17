@@ -16,6 +16,6 @@ hero:
 
 # Bollito
 
-- [Bollito](https://github.com/cnio-bu/bollito)
+- [Bollito website](https://github.com/cnio-bu/bollito)
 
 
