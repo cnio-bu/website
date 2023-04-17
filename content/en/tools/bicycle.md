@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Creating Modern Websites
+# Bicycle
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+- [Bicycle website](http://www.sing-group.org/bicycle/)
 
 

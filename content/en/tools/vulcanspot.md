@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Creating Modern Websites
+# VulcanSpot
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+- [VulcanSpot website](http://vulcanspot.org/)
 
 

@@ -14,8 +14,8 @@ hero:
   theme: "base"
 ---
 
-# Creating Modern Websites
+# Trifid
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+- [Trifid website](https://github.com/fpozoc/trifid)
 
 
