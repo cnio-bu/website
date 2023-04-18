@@ -1,7 +1,7 @@
 ---
 title: "Beyondcell"
+linktitle: "beyondcell"
 description: "A computational methodology for identifying and treating tumour cell subpopulations with distinct drug responses in single-cell RNA-seq data."
-date: 2023-02-17
 menu:
   main:
     weight: 4

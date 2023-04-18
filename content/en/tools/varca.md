@@ -1,7 +1,7 @@
 ---
 title: "varca"
+linktitle: "varca"
 description: "A pipeline for targeted DNAseq variant detection."
-date: 2023-02-17
 menu:
   main:
     weight: 4

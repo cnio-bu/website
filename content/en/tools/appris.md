@@ -1,7 +1,7 @@
 ---
 title: "APPRIS"
+linktitle: "appris"
 description: "The APPRIS database and web services annotate alternative splice variants and select a single variant as the main (principal) isoform."
-date: 2023-02-17
 menu:
   main:
     weight: 4

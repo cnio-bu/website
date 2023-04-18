@@ -1,7 +1,7 @@
 ---
-title: nextpresso
+title: "nextpresso"
+linktitle: "nextpresso"
 description: "A comprehensive RNA-seq data analysis workflow, comprising the most common needs demanded by experimental biologists."
-date: 2023-02-17
 menu:
   main:
     weight: 4

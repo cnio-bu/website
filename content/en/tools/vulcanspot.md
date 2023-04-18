@@ -1,7 +1,7 @@
 ---
 title: "vulcanSpot"
+linktitle: "vulcanspot"
 description: "A method for detecting and targeting cancer genetic dependencies."
-date: 2023-02-17
 menu:
   main:
     weight: 4

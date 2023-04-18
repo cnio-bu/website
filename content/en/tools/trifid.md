@@ -1,7 +1,7 @@
 ---
 title: "TRIFID"
+linktitle: "trifid"
 description: "A method to assess the functional relevance of splice isoforms."
-date: 2023-02-17
 menu:
   main:
     weight: 4
