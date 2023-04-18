@@ -1,5 +1,5 @@
 ---
-title: "vulcanSpot"
+title: "VULCANSPOT"
 linktitle: "vulcanspot"
 description: "A method for detecting and targeting cancer genetic dependencies."
 menu:
@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/vulcanspot_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# vulcanSpot
+# INFORMATION
 
 - [vulcanSpot website](http://vulcanspot.org/)
-
-

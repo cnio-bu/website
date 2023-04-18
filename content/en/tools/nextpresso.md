@@ -1,5 +1,5 @@
 ---
-title: "nextpresso"
+title: "NEXTPRESSO"
 linktitle: "nextpresso"
 description: "A comprehensive RNA-seq data analysis workflow, comprising the most common needs demanded by experimental biologists."
 menu:
@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/nextpresso_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# next*presso*
+# INFORMATION
 
 - [next*presso* website](http://ubio.bioinfo.cnio.es/people/ograna/nextpresso/)
-
-

@@ -1,5 +1,5 @@
 ---
-title: "bicycle"
+title: "BICYCLE"
 linktitle: "bicycle"
 description: "A stand-alone and multiplatform application for bisulfite-seq analysis."
 menu:
@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/bicycle_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# bicycle
+# INFORMATION
 
 - [bicycle website](http://www.sing-group.org/bicycle/)
-
-

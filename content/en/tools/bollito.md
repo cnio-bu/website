@@ -1,5 +1,5 @@
 ---
-title: "bollito"
+title: "BOLLITO"
 linktitle: "bollito"
 description: "A comprehensive, end-to-end Snakemake pipeline for single cell RNA-seq."
 menu:
@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/bollito_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# bollito
+# INFORMATION
 
 - [bollito website](https://github.com/cnio-bu/bollito)
-
-

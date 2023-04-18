@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/trifid_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# TRIFID
+# INFORMATION
 
 - [TRIFID website](https://github.com/fpozoc/trifid)
-
-

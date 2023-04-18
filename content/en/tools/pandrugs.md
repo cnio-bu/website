@@ -1,5 +1,5 @@
 ---
-title: "PanDrugs"
+title: "PANDRUGS"
 linktitle: "pandrugs"
 description: "A platform to guide the selection of therapies from the results of genome-wide studies in cancer disease."
 menu:
@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/pandrugs_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# PanDrugs
+# INFORMATION
 
 - [PanDrugs website](https://www.pandrugs.org)
-
-

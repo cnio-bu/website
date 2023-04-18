@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/appris_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# APPRIS
+## INFORMATION
 
 - [APPRIS website](https://appris.bioinfo.cnio.es/#/)
-
-

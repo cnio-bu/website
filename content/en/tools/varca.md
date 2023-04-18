@@ -1,5 +1,5 @@
 ---
-title: "varca"
+title: "VARCA"
 linktitle: "varca"
 description: "A pipeline for targeted DNAseq variant detection."
 menu:
@@ -9,13 +9,11 @@ menu:
 weight: 4
 thumbnail: "images/tools/varca_logo.png"
 hero:
-  background: "images/gen/services/service-3.webp"
+  background: "images/tools/tool-background.jpg"
   blend_mode: "normal"
   theme: "base"
 ---
 
-# varca
+# INFORMATION
 
 - [varca website](https://github.com/cnio-bu/varca)
-
-
