@@ -12,7 +12,7 @@ services:
   show_view_all: true
   limit: 3
 intro:
-  enabled: true
+  enabled: false
   align: left
   image: "images/gen/content/content-5-thumbnail.webp"
   heading: "We Help Business Grow"
@@ -24,12 +24,12 @@ intro:
   partners:
     enabled: true
 work:
-  enabled: true
+  enabled: false
   label: "Our Portfolio"
   show_view_all: false
   limit: 2
 outro:
-  enabled: true
+  enabled: false
   align: center
   image: ""
   heading: Get Started Today

@@ -14,9 +14,9 @@ defaultContentLanguageInSubdir = false
 [params]
   google_analytics_id = ""
   enable_dark_mode = true
-  enable_nested_menu = true       # allows dropdown menus in main menu
+  enable_nested_menu = false       # allows dropdown menus in main menu
   enable_fixed_header = true      # if true the header will be sticky and animate on scroll
-  enable_language_switcher = true
+  enable_language_switcher = false
 
   [params.colors]
     [params.colors.light]
@@ -66,57 +66,57 @@ defaultContentLanguageInSubdir = false
 
 [params.footer]
   show_site_title = true
-  show_copyright = true
+  show_copyright = false
   show_social_media_links = true
-  show_languages = true
-  enable_menu_footer_primary = true
+  show_languages = false
+  enable_menu_footer_primary = false
   footer_primary_menu_title = "Product"
-  enable_menu_footer_secondary = true
+  enable_menu_footer_secondary = false
   footer_secondary_menu_title = "Company"
-  enable_menu_footer_tertiary = true
+  enable_menu_footer_tertiary = false
   footer_tertiary_menu_title = "Support"
 
-[menu]
-  [[menu.main]]
-    name = "Buy Now"
-    url = "https://www.zerostatic.io/theme/hugo-advance/"
-    weight = 10
-
-  [[menu.footer_tertiary]]
-    name = "Buy Now"
-    url = "https://www.zerostatic.io/theme/hugo-advance/"
-    weight = 10
+#[menu]
+#  [[menu.main]]
+#    name = "Buy Now"
+#    url = "https://www.zerostatic.io/theme/hugo-advance/"
+#    weight = 10
+#
+#  [[menu.footer_tertiary]]
+#    name = "Buy Now"
+#    url = "https://www.zerostatic.io/theme/hugo-advance/"
+#    weight = 10
 
 [languages]
   [languages.en]
     weight = 0
     languageName = "English"
     contentDir = "content/en"
-  [languages.fr]
-    weight = 1
-    languageName = "Français"
-    contentDir = "content/fr"
-    title = "Hugo Avance"
-    [languages.fr.params.footer]
-      show_site_title = true
-      show_copyright = true
-      show_social_media_links = true
-      show_languages = true
-      enable_menu_footer_primary = true
-      footer_primary_menu_title = "Produit"
-      enable_menu_footer_secondary = true
-      footer_secondary_menu_title = "Compagnie"
-      enable_menu_footer_tertiary = true
-      footer_tertiary_menu_title = "Support"
-[languages.fr.menu]
-  [[languages.fr.menu.main]]
-    name = "Acheter"
-    url = "https://www.zerostatic.io/theme/hugo-advance/"
-    weight = 10
-  [[languages.fr.menu.footer_tertiary]]
-    name = "Acheter"
-    url = "https://www.zerostatic.io/theme/hugo-advance/"
-    weight = 10
+#  [languages.fr]
+#    weight = 1
+#    languageName = "Français"
+#    contentDir = "content/fr"
+#    title = "Hugo Avance"
+#    [languages.fr.params.footer]
+#      show_site_title = true
+#      show_copyright = true
+#      show_social_media_links = true
+#      show_languages = true
+#      enable_menu_footer_primary = true
+#      footer_primary_menu_title = "Produit"
+#      enable_menu_footer_secondary = true
+#      footer_secondary_menu_title = "Compagnie"
+#      enable_menu_footer_tertiary = true
+#      footer_tertiary_menu_title = "Support"
+#[languages.fr.menu]
+#  [[languages.fr.menu.main]]
+#    name = "Acheter"
+#    url = "https://www.zerostatic.io/theme/hugo-advance/"
+#    weight = 10
+#  [[languages.fr.menu.footer_tertiary]]
+#    name = "Acheter"
+#    url = "https://www.zerostatic.io/theme/hugo-advance/"
+#    weight = 10
 
 [permalinks]
   posts = "blog/:year/:month/:title/"
