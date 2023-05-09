@@ -14,7 +14,7 @@ menu:
     weight: 1
 header_transparent: true
 hero:
-  background: "images/gen/home/home-8-large.webp"
+  background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
 ---

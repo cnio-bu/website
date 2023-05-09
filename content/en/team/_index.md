@@ -6,11 +6,11 @@ menu:
   footer_primary:
     weight: 3
 summary_type: "summary-bio"
-header_transparent: false
+header_transparent: true
 hero:
-  background: ""
-  blend_mode: "normal"
-  theme: "base"
+  background: "images/gen/home/home-1-large.webp"
+  blend_mode: "overlay"
+  theme: "primary"
 ---
 
 ## Visiting and Former Members

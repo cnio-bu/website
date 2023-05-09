@@ -11,7 +11,7 @@ menu:
     weight: 2
 thumbnail: "images/cnio/fatima_gon.jpg"
 hero:
-  background: "images/cnio/fatima_gon.jpg"
+  background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
 ---
