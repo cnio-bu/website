@@ -1,7 +1,8 @@
 ---
 title: "Tools"
-description: "CNIO Bioinformatics Unit Tools"
+description: "A list of the tools developed by the CNIO Bioinformatics Unit"
 date: 2023-02-17
+summary_type: "summary-bio"
 menu:
   main:
     identifier: tools
