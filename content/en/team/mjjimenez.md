@@ -12,7 +12,7 @@ links:
     icon: "fab fa-linkedin"
   - url: 'https://scholar.google.es/citations?user=seozZOIAAAAJ&hl=es'
     label: Google Scholar
-    icon: "fab fa-google-scholar"
+    icon: "fab fa-google"
 ---
 
 Hi! My name is María José and I am a predoctoral student at the CNIO Bioinformatics Unit. I majored in Biochemistry at the Universidad Autónoma de Madrid ([UAM](http://www.uam.es/UAM/Home.htm?language=es)), and then I took a master’s degree in Bioinformatics and Computational Biology at the same university.

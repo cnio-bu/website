@@ -12,7 +12,7 @@ links:
     icon: "fab fa-orcid"
   - url: 'https://scholar.google.es/citations?user=RO19sY8AAAAJ&hl=en'
     label: Google Scholar
-    icon: "fab fa-google-scholar"
+    icon: "fab fa-google"
   - url: 'https://www.linkedin.com/in/fatima-al-shahrour-71550736/'
     label: LinkedIn
     icon: "fab fa-linkedin"

@@ -12,7 +12,7 @@ links:
     icon: "fab fa-orcid"
   - url: 'https://scholar.google.es/citations?user=3VmC5bYAAAAJ&hl=es'
     label: Google Scholar
-    icon: "fab fa-google-scholar"
+    icon: "fab fa-google"
   - url: 'https://www.linkedin.com/in/ggomezcnio/'
     label: LinkedIn
     icon: "fab fa-linkedin"

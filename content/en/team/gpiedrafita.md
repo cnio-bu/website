@@ -15,7 +15,7 @@ links:
     icon: "fab fa-linkedin"
   - url: 'https://scholar.google.com/citations?user=Wgp4wk4AAAAJ&hl=en&oi=ao'
     label: Google Scholar
-    icon: "fab fa-google-scholar"
+    icon: "fab fa-google"
 ---
 
 I am a systems biologist working with an [Atracción de Talento fellowship](https://mcyt.educa.madrid.org/madrid-ciencia-tecnologia/convocatorias/convocatorias-2018) between the experimental [Epithelial Carcinogenesis group](https://www.cnio.es/en/research-innovation/scientific-programmes/molecular-oncology-programme/epithelial-carcinogenesis-group/) and the [Bioinformatics Unit](https://bioinformatics.cnio.es/) at the CNIO. My research interest is in understanding cell behavior, clonal competition and evolution in normal and precancerous epithelial tissues. In particular, I develop data-driven mathematical models with the aim of addressing the cellular mechanisms that underpin normal tissue homeostasis and the evolutionary principles that apply to early tumorigenesis, where the role of mutant clonal competition in cancer initiation is still unclear.

@@ -1,4 +1,4 @@
-baseURL = "https://cnio-bu.github.io/website"
+baseURL = "https://matrix.bioinformatics.cnio.es/"
 title = "CNIO Bioinformatics Unit"
 theme = "hugo-advance"
 paginate = 3
@@ -60,8 +60,8 @@ defaultContentLanguageInSubdir = false
 
 [params.seo]
   meta_twitter_card = "summary"
-  meta_twitter_site = "@zerostaticio"
-  meta_twitter_creator = "@zerostaticio"
+  meta_twitter_site = "@BU_CNIO"
+  meta_twitter_creator = "@BU_CNIO"
   append_site_title = true                                   # appends the .Site.title to the <title> of all pages
 
 [params.footer]

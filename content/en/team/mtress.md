@@ -9,7 +9,7 @@ jobtitle: 'Staff Scientist'
 links:
   - url: 'https://scholar.google.es/citations?user=3jcwd6EAAAAJ&hl=es'
     label: Google Scholar
-    icon: "fab fa-google-scholar"
+    icon: "fab fa-google"
 ---
 
 - Worked in the CNIO since 2006, previously in the CNB, also in Madrid.
