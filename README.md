@@ -1,27 +1,16 @@
-# Hugo Advance Theme
+# CNIO BU website
 
-Hugo Advance is a premium, multi-purpose Hugo theme.
+This is the source code for the website of the CNIO Bioinformatics Unit
 
-- [Demo](https://hugo-advance.netlify.app/)
-- [Documentation](https://www.zerostatic.io/docs/hugo-advance)
+The main branch is automatically built and published to https://cnio-bu.github.io/website/
 
-![Hugo Advance Theme screenshot](https://www.zerostatic.io/theme/hugo-advance/hugo-advance-screenshot.png)
+NOTE: some icons don't work on the Github-hosted site. This is expected.
 
-## Installation
+## Local testing
 
 Make sure you have Hugo installed - For more information read the official [setup guide](//gohugo.io/installation/) of Hugo.
 
-## Getting started
-
-Unzip the hugo advance pro zip file. It already contains the Hugo site and theme. All content is ready to go.
-
-Inside the unzipped folder run:
-
-```
-hugo
-```
-
-Hugo's built-in local server.
+Clone the repository and run:
 
 ```
 hugo server
