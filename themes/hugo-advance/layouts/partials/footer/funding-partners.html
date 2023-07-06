@@ -1,0 +1,9 @@
+{{ if .Site.Data.fundingPartners }}
+<div id="funding-partners" class="funding-partners">
+  {{ range .Site.Data.fundingPartners }}
+    <a href="{{ .url }}" target="blank" title="{{ .title }}">
+      <img src="{{ .image }}" ></img>
+    </a>
+  {{ end }}
+  </div>
+{{ end }}
