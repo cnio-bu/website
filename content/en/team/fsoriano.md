@@ -3,9 +3,19 @@ title: 'Francisco Javier Soriano Díaz'
 linktitle: 'Soriano'
 draft: false
 weight: 2
-thumbnail: 'images/team/thumbnails/default.jpg'
+thumbnail: 'images/team/thumbnails/Soriano_Francisco-Javier.jpg'
 image: 'images/team/default.jpg'
 jobtitle: 'Bioinformatician'
+links:
+  - url: 'https://orcid.org/0000-0002-8275-285X'
+    label: ORCID
+    icon: "fab fa-orcid"
+  - url: 'https://www.linkedin.com/in/fransoriano/'
+    label: LinkedIn
+    icon: "fab fa-linkedin"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+- Bsc in Telecommunications Engineering (University of Granada)
+- MSc in Telecommunications Engineering (University of Granada)
+- MSc in Bioinformatics and Biostatistics (Open University of Catalonia)
+- In the Bioinformatics Unit since October 2022
