@@ -1,6 +1,6 @@
 ---
 title: 'Ruth Álvarez Díaz'
-linktitle: 'Álvarez'
+linktitle: 'Alvarez'
 draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Alvarez_Ruth.png'
