@@ -67,6 +67,7 @@ defaultContentLanguageInSubdir = false
 [params.footer]
   show_site_title = true
   show_copyright = false
+  show_funding_partner_logos = true
   show_social_media_links = true
   show_languages = false
   enable_menu_footer_primary = false
@@ -100,6 +101,7 @@ defaultContentLanguageInSubdir = false
 #    [languages.fr.params.footer]
 #      show_site_title = true
 #      show_copyright = true
+#      show_funding_partner_logos = true
 #      show_social_media_links = true
 #      show_languages = true
 #      enable_menu_footer_primary = true

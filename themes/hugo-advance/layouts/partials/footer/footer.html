@@ -50,6 +50,15 @@
                 </div>
             {{ end }}
         {{ end }}
+        {{ if .Site.Params.footer.show_funding_partner_logos }}
+            {{ if .Site.Data.fundingPartners }}
+                <div class="row">
+                    <div class="col-12 pt-3">
+                        {{ partial "footer/funding-partners" . }}
+                    </div>
+                </div>
+            {{ end }}
+        {{ end }}
         {{ if .Site.Params.footer.show_copyright }}
             <div class="row">
                 <div class="col-12 pt-3">
