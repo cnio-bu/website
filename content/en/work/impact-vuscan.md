@@ -10,6 +10,12 @@ hero:
   background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
+work:
+  heading: IMPaCT-VUScan
+  heading_label:
+  brief: "The IMPaCT-VUSCan project, co-led by the Spanish National Cancer Research Center (CNIO) and the Bellvitge Biomedical Research Institute/Catalan Institute of Oncology (IDIBELL/ICO), and involving seven other Spanish research centers, seeks to expand knowledge about the genetic variants that affect cancer predisposition.
+  The first beneficiaries of this project will be families with high-risk genes that are passed down from parents to children, presenting therefore more cases of cancer than usual. IMPaCT-VUSCan will collect and analyse in-depth data from more than three hundred families with cases of familial cancer from all over Spain."
+  link: "https://www.cnio.es/noticias/comienza-el-mayor-proyecto-espanol-para-identificar-genes-que-aumentan-el-riesgo-de-desarrollar-cancer/"
 ---
 
 ## Implementation of a functional genomics strategy for undiagnosed hereditary cancers
