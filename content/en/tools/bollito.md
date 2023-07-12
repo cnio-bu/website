@@ -5,4 +5,5 @@ links:
   - url: 'https://github.com/cnio-bu/bollito'
     icon: "fas fa-link"
     label: Visit Bollito
+tool_image: "images/tools/bollito_logo.png"
 ---

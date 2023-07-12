@@ -22,6 +22,20 @@
       }
     }
   }
+  .summary-tool-image {
+    a {
+      display: block;
+    }
+    img {
+      width: auto;
+      height: 50px;
+      margin: 5px 0;
+      vertical-align: bottom;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
   .summary-jobtitle {
     margin: 5px 0;
   }

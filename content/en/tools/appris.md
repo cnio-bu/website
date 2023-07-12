@@ -5,4 +5,5 @@ links:
   - url: 'https://appris.bioinfo.cnio.es/#/'
     icon: "fas fa-link"
     label: Visit APPRIS
+tool_image: "images/tools/appris_logo.png"
 ---

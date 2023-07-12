@@ -4,6 +4,11 @@
             <img src="{{ .Params.thumbnail | relURL }}"/>
         </div>
     {{ end }}
+    {{ if .Params.tool_image }}
+    <div class="summary-tool-image">
+        <img src="{{ .Params.tool_image | relURL }}"/>
+    </div>
+    {{ end }}
     <div class="summary-content">
         <div class="summary-title">
             <h2>{{ .Title }}</h2>

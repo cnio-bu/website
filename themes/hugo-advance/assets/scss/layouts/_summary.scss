@@ -25,6 +25,21 @@
       }
     }
   }
+  .summary-tool-image {
+    max-height: 300px;
+    overflow: hidden;
+    a {
+      display: block;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      vertical-align: bottom;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
   .summary-icon {
     width: 60px;
     margin-bottom: 10px;

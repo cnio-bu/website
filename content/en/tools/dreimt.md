@@ -5,4 +5,5 @@ links:
   - url: 'http://dreimt.org/'
     icon: "fas fa-link"
     label: Visit DREIMT
+tool_image: "images/tools/dreimt_logo.png"
 ---
