@@ -38,7 +38,7 @@ hero:
 - Santiago García – MSc student in Bioinformatics (ISCIII), 2019 – Currently in the Bioinformatics Unit at CNIO
 - José Antonio López Martín MD, PhD – Visitor (Hospital 12 de Octubre), July 2019
 - Javier Perales Patón – PhD student (UAM) from March 2014 to December 2019
-- Manuel Moradiellos – BSc student Biology (UAM) – Summer student, July 2019 and August 2019 - Currently in the Computational Cancer Genomics at CNIO
+- Manuel Moradiellos – BSc student Biology (UAM) – Summer student, July 2018 and August 2019 - Currently in the Computational Cancer Genomics at CNIO
 - Maria José Jiménez – MSc student in Bioinformatics (UAM) 2018 – Currently in the Bioinformatics Unit at CNIO
 - Diana De La Iglesia, PhD – Bioinformatician from 2018 to 2019
 - Alfonso Esteban Lasso – MSc student in Bioinformatics (UOC) from November 2018 to May 2019

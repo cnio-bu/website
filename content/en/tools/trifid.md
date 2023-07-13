@@ -5,4 +5,5 @@ links:
   - url: 'https://github.com/fpozoc/trifid'
     icon: "fas fa-link"
     label: Visit Trifid
+tool_image: "images/tools/trifid_logo.png"
 ---

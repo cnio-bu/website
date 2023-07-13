@@ -5,4 +5,5 @@ links:
   - url: 'https://github.com/cnio-bu/beyondcell'
     icon: "fas fa-link"
     label: Visit Beyondcell
+tool_image: "images/tools/beyondcell_logo.png"
 ---

@@ -10,6 +10,12 @@ hero:
   background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
+work:
+  heading: "EOSC4Cancer info"
+  heading_label:
+  brief: "In order to make cancer data accessible, it is necessary to integrate advanced research data beyond national borders in order to make progress. With this idea in mind, EOSC4Cancer brings together a consortium of 29 organizations from 13 countries, including cancer research centers, research infrastructures, cutting-edge research groups, hospitals, and supercomputing centers.
+  The well-preserved datasets from EOSC4Cancer will be an essential contribution to reproducible and robust analytical and computational methods, including machine learning and artificial intelligence, laying the foundations for data trajectories and workflows for future European Cancer Mission projects."
+  link: "https://eosc4cancer.eu/"
 ---
 
 ## Aligning EOSC4Cancer results with the needs of the research community

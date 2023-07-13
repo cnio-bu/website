@@ -5,4 +5,5 @@ links:
   - url: 'http://www.sing-group.org/bicycle/'
     icon: "fas fa-link"
     label: Visit Bicycle
+tool_image: "images/tools/bicycle_logo.png"
 ---

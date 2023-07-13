@@ -5,4 +5,5 @@ links:
   - url: 'https://github.com/cnio-bu/varca'
     icon: "fas fa-link"
     label: Visit Varca
+tool_image: "images/tools/varca_logo.png"
 ---
