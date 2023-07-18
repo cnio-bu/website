@@ -1,17 +1,17 @@
 [
   {
     "title": "CNIO-STOPCANCER",
-    "image": "images/funding-partners/CNIO_STOPCANCER_footer.jpg",
+    "image": "/images/funding-partners/CNIO_STOPCANCER_footer.jpg",
     "url": "https://www.cnio.es/"
   },
   {
     "title": "INB-ELIXIR",
-    "image": "images/funding-partners/INB_ELIXIR_footer.png",
+    "image": "/images/funding-partners/INB_ELIXIR_footer.png",
     "url": "https://inb-elixir.es/"
   },
   {
     "title": "ISCIII-FEDER",
-    "image": "images/funding-partners/ISCIII_FEDER_footer.png",
+    "image": "/images/funding-partners/ISCIII_FEDER_footer.png",
     "url": "https://www.isciii.es/"
   }
 ]
