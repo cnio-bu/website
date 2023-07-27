@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   google_analytics_id = ""
-  enable_dark_mode = true
+  enable_dark_mode = false
   enable_nested_menu = false       # allows dropdown menus in main menu
   enable_fixed_header = true      # if true the header will be sticky and animate on scroll
   enable_language_switcher = false
