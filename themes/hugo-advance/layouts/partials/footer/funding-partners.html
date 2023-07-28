@@ -2,7 +2,7 @@
 <div id="funding-partners" class="funding-partners">
   {{ range .Site.Data.fundingPartners }}
     <a href="{{ .url }}" target="blank" title="{{ .title }}">
-      <img src="{{ .image }}" ></img>
+      <img src="{{ .image | absURL }}" ></img>
     </a>
   {{ end }}
   </div>
