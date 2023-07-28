@@ -2,9 +2,9 @@
 title: 'Team'
 menu:
   main:
-    weight: 3
+    weight: 2
   footer_primary:
-    weight: 3
+    weight: 2
 summary_type: "summary-bio"
 header_transparent: true
 hero:
@@ -19,8 +19,9 @@ hero:
 - Pablo González Martínez – MSc student in Bioinformatics (ISCIII) since May 2023 (ongoing)
 - Marcos Rubio Fernández – MSc student in Bioinformatics (ISCIII) since May 2023 (ongoing)
 - David Cáceres Gallardo – Visitor (Hospital 12 de Octubre) since 2023 (ongoing)
-- Carlos Carretero, MSc – Visitor PhD student (Hospital 12 de Octubre, UAM) since 2017 (ongoing)
-- María González Bermejo – BSc Biochemistry (UAM) – Student internship from February 2023 to June 2023
+- Gabriel Piedrafita Fernández – Visiting researcher (UCM) since 2019 (ongoing)
+- Carlos Carretero – Visitor PhD student (Hospital 12 de Octubre, UAM) since 2017 (ongoing)
+- María González Bermejo – BSc Biochemistry (UAM) – MSc student in Bioinformatics (UAM) since 2023 (ongoing)
 - Ester Arroba Hidalgo – Bioinformatician from February 2023 to June 2023 – Currently in Hereditary Endocrine Cancer Group at CNIO 
 - Laura Martínez Gómez – MSc student in Bioinformatics (ISCIII) from September 2017 to January 2018 and PhD student (UAM) from January 2018 to May 2023 – Currently in Fujitsu Research
 - Fernando Pozo – PhD student (UAM) from September 2017 to October 2022 - Currently in Spika Tech

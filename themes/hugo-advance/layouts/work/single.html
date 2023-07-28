@@ -45,6 +45,9 @@
                             <div class="sidebar-work-brief">
                                 <strong>Brief: </strong>{{ .brief }}
                             </div>
+                            <div class="sidebar-work-image">
+                                <img src="{{ .image | absURL }}"/>
+                            </div>
                             {{ if .link }}
                                 <div class="sidebar-work-link">
                                     <strong>Source: </strong><a href="{{ .link }}">{{ if .link_title }}{{ .link_title }}{{ else }}{{ .link }}{{ end }}</a>
@@ -66,6 +69,9 @@
                             {{ end }}
                             <div class="sidebar-work-brief">
                                 <strong>Brief: </strong>{{ .brief }}
+                            </div>
+                            <div class="sidebar-work-image">
+                                <img src="{{ .image | absURL }}"/>
                             </div>
                             {{ if .link }}
                                 <div class="sidebar-work-link">

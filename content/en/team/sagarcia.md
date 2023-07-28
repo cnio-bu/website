@@ -5,7 +5,7 @@ draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Garcia_Santiago.jpg'
 image: 'images/team/Garcia_Santiago.jpg'
-jobtitle: 'PhD Candidate'
+jobtitle: 'PhD Student'
 links:
   - url: 'https://www.linkedin.com/in/sgm94/'
     label: LinkedIn

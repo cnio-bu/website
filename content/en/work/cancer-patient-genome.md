@@ -1,6 +1,6 @@
 ---
 title: "Cancer Patient Genome Analysis"
-description: "Understanding the patient's genome to create better therapies"
+description: "Understanding the cancer patient's genome to create better therapies"
 date: 2018-12-20
 weight: 1
 portfolio: ["research"]
@@ -13,11 +13,13 @@ hero:
 work:
   heading: PanDrugs
   heading_label: "Tool highlight"
+  image: "images/projects/pandrugs_logo.png"
   brief: "PanDrugs is a bioinformatics platform to prioritize anticancer drug treatments according to individual genomic data."
   link: "https://www.pandrugs.org"
 work2:
   heading: VulcanSpot
   heading_label: "Tool highlight"
+  image: "images/projects/vulcanspot_logo.png"
   brief: "VulcanSpot integrates molecular profiling with gene essentiality screenings in cancer cell lines in order to identify gene dependencies."
   link: "http://vulcanspot.org"
 ---

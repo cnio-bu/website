@@ -5,13 +5,63 @@
     "url": "https://www.cnio.es/"
   },
   {
+    "title": "UE-MINISTERIO-ISCIII",
+    "image": "images/funding-partners/UE_MINISTERIO_ISCIII_footer.png",
+    "url": "https://www.isciii.es/"
+  },
+  {
+    "title": "CAM",
+    "image": "images/funding-partners/CAM_footer.png",
+    "url": "https://mcyt.educa.madrid.org/"
+  },
+  {
+    "title": "UE-COST",
+    "image": "images/funding-partners/UE_COST_footer.jpeg",
+    "url": "https://www.cost.eu/"
+  },
+  {
+    "title": "SEBIBC",
+    "image": "images/funding-partners/SEBIBC_footer.png",
+    "url": "https://sebibc.es/"
+  },
+  {
     "title": "INB-ELIXIR",
     "image": "images/funding-partners/INB_ELIXIR_footer.png",
     "url": "https://inb-elixir.es/"
   },
   {
-    "title": "ISCIII-FEDER",
-    "image": "images/funding-partners/ISCIII_FEDER_footer.png",
-    "url": "https://www.isciii.es/"
+    "title": "IMPACT-DATA",
+    "image": "images/funding-partners/IMPACT_DATA_footer.png",
+    "url": "https://impact-data.bsc.es/"
+  },
+  {
+    "title": "IMPACT-GENOMICA",
+    "image": "images/funding-partners/IMPACT_GENOMICA_footer.png",
+    "url": "https://expertos.ciberisciii.es/"
+  },
+  {
+    "title": "EOSC4CANCER",
+    "image": "images/funding-partners/EOSC4CANCER_footer.png",
+    "url": "https://eosc4cancer.eu/"
+  },
+  {
+    "title": "GENCODE",
+    "image": "images/funding-partners/GENCODE_footer.png",
+    "url": "https://www.gencodegenes.org/"
+  },
+  {
+    "title": "AECC",
+    "image": "images/funding-partners/AECC_footer.png",
+    "url": "https://www.contraelcancer.es/es"
+  },
+  {
+    "title": "PARADIFFERENCE",
+    "image": "images/funding-partners/PARADIFFERENCE_footer.png",
+    "url": "https://www.paradifference.org/"
+  },
+  {
+    "title": "LA-CAIXA",
+    "image": "images/funding-partners/LA_CAIXA_footer.png",
+    "url": "https://fundacionlacaixa.org/es/"
   }
 ]

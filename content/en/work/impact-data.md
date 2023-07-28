@@ -13,6 +13,7 @@ hero:
 work:
   heading: IMPaCT-Data info
   heading_label:
+  image: "images/projects/impact_data_logo.png"
   brief: "IMPaCT-Data is the IMPaCT program that aims to support the development of a common, interoperable and integrated system for data collection and analysis clinical and molecular studies, providing for this the knowledge and resources available in the Spanish System of Science and Technology. This development will allow answering research questions from the different information systems and available clinical and molecular information."
   link: "https://impact-data.bsc.es/en/"
 ---

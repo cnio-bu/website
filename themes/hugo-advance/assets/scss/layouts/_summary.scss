@@ -121,4 +121,16 @@
       margin-right: 10px;
     }
   }
+  .summary-reference {
+    p {
+      line-height: 1.5;
+      color: var(--color-base-text-offset);
+      font-style: italic;
+    }
+  }
+  .summary-reference-link {
+      line-height: 1.5;
+      color: var(--color-base-text-offset);
+      font-style: normal;
+  }
 }
