@@ -4,9 +4,9 @@ date: 2023-07-12
 summary_type: "summary-background"
 menu:
   main:
-    weight: 6
+    weight: 7
   footer_primary:
-    weight: 6
+    weight: 7
 header_transparent: true
 hero:
   background: "images/gen/home/home-1-large.webp"
@@ -15,13 +15,11 @@ hero:
 ---
 ## ADDRESS
 
-Centro Nacional de Investigaciones Oncológicas (CNIO)
+##### Centro Nacional de Investigaciones Oncológicas (CNIO)
+###### Bioinformatics Unit
 
-C/ Melchor Fernández Almagro, 3.
-
-28029 Madrid
-
-Spain
+C/ Melchor Fernández Almagro, 3  
+28029 Madrid, Spain
 
 <br/>
 <br/>
@@ -29,21 +27,8 @@ Spain
 
 ## E-MAIL
 
-**General contact**: bioinformatics[at]cnio[dot]es
+###### General contact
+bioinformatics[at]cnio[dot]es
 
-**Team contact**:
-
-- **Fátima Al-Shahrour**, head of the bioinformatics unit: falshahrour[at]cnio[dot]es
-- **Ruth Álvarez**: ralvarezd[at]cnio[dot]es
-- **Dido Carrero**: dcarrero[at]cnio[dot]es
-- **Daniel Cerdán**: dcerdan[at]cnio[dot]es
-- **Tomás Di Domenico**: tdido[at]cnio[dot]es
-- **Santiago García**: sagarcia[at]cnio[dot]es
-- **Gonzalo Gómez**: gggomez[at]cnio[dot]es
-- **Maria José Jimenez**: mjjimenez[at]cnio[dot]es
-- **Óscar Lapuente**: olapuente[at]cnio[dot]es
-- **Gabriel Piedrafita**: gpiedrafita[at]cnio[dot]es
-- **Elena Piñeiro**: epineiro[at]cnio[dot]es
-- **Laura Serrano**: lserranor[at]cnio[dot]es
-- **Francisco Javier Soriano**: fsoriano[at]cnio[dot]es
-- **Michael Tress**: mtress[at]cnio[dot]es
+###### Fátima Al-Shahrour, _head of the bioinformatics unit_
+falshahrour[at]cnio[dot]es
