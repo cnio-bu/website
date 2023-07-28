@@ -13,6 +13,7 @@ hero:
 work:
   heading: DREIMT
   heading_label: "Tool highlight"
+  image: "images/projects/dreimt_logo.png"
   brief: "DREIMT is a tool for hypothesis generation and prioritization of drugs capable of modulating immune cell activity from transcriptomics data."
   link: "https://dreimt.org"
 ---

@@ -13,6 +13,7 @@ hero:
 work:
   heading: APPRIS
   heading_label: "Tool highlight"
+  image: "images/projects/appris_logo.png"
   brief: "The APPRIS database and web server select a single representative protein isoform for each coding gene based on cross-species conservation and the preservation of protein structural and functional features."
   link: "https://appris.bioinfo.cnio.es"
 ---
