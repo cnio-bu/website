@@ -27,8 +27,6 @@ C/ Melchor Fernández Almagro, 3
 
 ## E-MAIL
 
-###### General contact
-bioinformatics[at]cnio[dot]es
+**General contact:** bioinformatics@cnio.es
 
-###### Fátima Al-Shahrour, _head of the bioinformatics unit_
-falshahrour[at]cnio[dot]es
+**Fátima Al-Shahrour**, _head of the bioinformatics unit_: falshahrour@cnio.es
