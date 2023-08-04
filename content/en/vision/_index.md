@@ -22,3 +22,5 @@ As social scientists, we hold a strong belief in supporting human rights and res
 Science, for us, is not merely a detached endeavour; it is an integral part of our personal growth and creative expression. We strive to promote a harmonious integration of science, ethics, humanity, and work-life balance as well as fostering a deep respect and love for culture, including arts and humanities.
 
 We are committed to upholding and integrating these principles into our daily work. Our dedication lies in making a positive impact, not only in the lives of the patients we serve but also within the broader scientific community and society.
+
+![Bioinformatics Unit](../images/team/Bioinformatics_Unit.jpg)
