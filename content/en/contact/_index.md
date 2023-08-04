@@ -12,6 +12,7 @@ hero:
   background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
+image: "images/logo/logo-rect.png"
 ---
 ## ADDRESS
 
@@ -29,4 +30,4 @@ C/ Melchor Fernández Almagro, 3
 
 **General contact:** bioinformatics@cnio.es
 
-**Fátima Al-Shahrour**, _head of the bioinformatics unit_: falshahrour@cnio.es
+**Fátima Al-Shahrour**, _head of the Bioinformatics Unit_: falshahrour@cnio.es

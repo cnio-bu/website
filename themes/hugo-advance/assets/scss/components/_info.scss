@@ -39,6 +39,9 @@
     }
   }
   .info-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     img {
       border-radius: $border-radius;
     }

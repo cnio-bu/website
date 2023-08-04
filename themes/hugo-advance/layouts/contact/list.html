@@ -9,8 +9,19 @@
         <div class="strip theme-base">
             <div class="container">
                 <div class="row">
-                    <div class="col col-lg-8">
-                        {{ .Content }}
+                    <div class="col-12">
+                        <div class="info">
+                            <div class="info-columns">
+                                <div class="info-content">
+                                    {{ .Content }}
+                                </div>
+                                <div class="info-media">
+                                    {{ if .Params.image }}
+                                    <img width="390" height="260" class="img-fluid" src="{{ .Params.image| absURL }}"/>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
