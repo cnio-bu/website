@@ -1,7 +1,7 @@
 ---
 title: "APPRIS"
 description: "The APPRIS database and web services annotate alternative splice variants and select a single variant as the main (principal) isoform."
-reference: "Rodriguez J.M. et al. 2022."
+reference: "Rodriguez J. M. et al. 2022."
 reference_link:
   - url: 'https://pubmed.ncbi.nlm.nih.gov/34755885/'
     text: "PMID:"

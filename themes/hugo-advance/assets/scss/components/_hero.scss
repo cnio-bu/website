@@ -4,7 +4,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
-  padding-top: $strip-padding;
+  padding-top: $strip-padding + $header-height;
   padding-bottom: $strip-padding;
   min-height: 300px;
   @include media-breakpoint-up(md) {

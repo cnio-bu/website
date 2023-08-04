@@ -6,15 +6,22 @@ summary_type: "summary-background"
 header_transparent: true
 menu:
   main:
-    weight: 5
+    weight: 4
   footer_primary:
-    weight: 5
+    weight: 4
 thumbnail: "images/cnio/fatima_gon.jpg"
 hero:
   background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
 ---
+
+### Andalusian Program of Training in Personalized and Precision Medicine (PANMEP).  
+**Department of Health and Consumer Affairs of the Regional Government of Andalusia and the International University of Andalusia. IAVANTE - Foundation for Progress and Health.**     
+University Expert Course in Personalized and Precision Medicine.   
+**Lecturer:** Fátima Al-Shahrour.  
+Since 2022.  
+[More info](https://medicinaprecisionandalucia.iavante.es/)
 
 ### Master in Bioinformatics and Data Science in personalized precision medicine and health.
 **Instituto de Salud Carlos III (Madrid).**  
@@ -23,12 +30,6 @@ Co-directed by Fátima Al-Shahrour.
 **Lecturers:** Ruth Álvarez, Tomás Di Domenico,  Santiago García, Gonzalo Gómez, María José Jimenez, Oscar Lapuente, Elena Piñeiro.  
 Since 2018.  
 [More info](http://www.masterbioinformatica.com/)
-
-### Course on Bioinformatics for Precision Medicine.
-**Instituto Gulbenkian de Ciéncia (Lisboa, Portugal).**  
-**Lecturers:** Fátima Al-Shahrour, María José Jiménez, Elena Piñeiro.  
-Since 2014.  
-[More info](http://ciencias.biomol.uam.es/info_BDC)
 
 ### Master in Cancer Immunotherapy.
 **Universidad Internacional Menéndez Pelayo.**  
@@ -41,6 +42,12 @@ Since 2018.
 **Lecturers:** Fátima Al-Shahrour, Tomás Di Domenico, Gonzalo Gómez, Elena Piñeiro, Michael Tress.  
 Since 2017.  
 [More info](https://www.uam.es/UAM/Bioinform%C3%A1tica-y-Biolog%C3%ADa-Computacional/1446727595246.htm?pid=1242684629435&title=M%C3%A1ster%20Universitario%20en%20Bioinform%C3%A1tica%20y%20Biolog%C3%ADa%20Computacional)
+
+### Course on Bioinformatics for Precision Medicine.
+**Instituto Gulbenkian de Ciéncia (Lisboa, Portugal).**  
+**Lecturers:** Fátima Al-Shahrour, María José Jiménez, Elena Piñeiro.  
+Since 2014.  
+[More info](http://ciencias.biomol.uam.es/info_BDC)
 
 ### Master in Molecular Oncology.
 **CNIO-CEB.**  

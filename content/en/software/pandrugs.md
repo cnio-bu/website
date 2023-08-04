@@ -1,11 +1,11 @@
 ---
 title: "PANDRUGS"
 description: "A platform to guide the selection of therapies from the results of genome-wide studies in cancer disease."
-reference: "Piñeiro-Yáñez, E. et al. 2018."
+reference: "Jiménez-Santos M. J. et al. 2023."
 reference_link:
-  - url: 'https://pubmed.ncbi.nlm.nih.gov/29848362/'
+  - url: 'https://pubmed.ncbi.nlm.nih.gov/37207338/'
     text: "PMID:"
-    label: "29848362"
+    label: "37207338"
 links:
   - url: 'https://www.pandrugs.org'
     icon: "fas fa-link"
