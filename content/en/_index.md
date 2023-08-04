@@ -14,7 +14,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "images/logo/logo-rect.png"
+  image: "images/home/BSC.jpg"
   heading: "Welcome to the website of the CNIO Bioinformatics Unit"
   description: >
     Our group covers two roles: we do research on bioinformatics and we provide support to internal and external researchers. Our research activity is focused on the development of novel computational techniques for the integration of cancer genomics data with clinical and pathological features. Our goal is to translate this knowledge from cancer genome-scale studies to the effective treatment of cancer patients.
