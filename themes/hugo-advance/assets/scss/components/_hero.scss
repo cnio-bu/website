@@ -24,6 +24,9 @@
       @include media-breakpoint-up(md) {
         font-size: 4rem;
       }
+      @include media-breakpoint-down(sm) {
+        font-size: 2.2rem;
+      }
     }
     h2 {
       color: inherit;
