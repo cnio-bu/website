@@ -16,20 +16,20 @@ hero:
   theme: "primary"
 ---
 
+### Master in Bioinformatics and Data Science in personalized precision medicine and health.
+**Instituto de Salud Carlos III (Madrid).**  
+Co-directed by Fátima Al-Shahrour.  
+**Coordination:** Tomás di Domenico, Gonzalo Gómez.  
+**Lecturers:** Ruth Álvarez, Dido Carrero, Tomás Di Domenico, Santiago García, Gonzalo Gómez, María José Jimenez, Oscar Lapuente, Elena Piñeiro.  
+Since 2018.  
+[More info](http://www.masterbioinformatica.com/)
+
 ### Andalusian Program of Training in Personalized and Precision Medicine (PANMEP).  
 **Department of Health and Consumer Affairs of the Regional Government of Andalusia and the International University of Andalusia. IAVANTE - Foundation for Progress and Health.**     
 University Expert Course in Personalized and Precision Medicine.   
 **Lecturer:** Fátima Al-Shahrour.  
 Since 2022.  
 [More info](https://medicinaprecisionandalucia.iavante.es/)
-
-### Master in Bioinformatics and Data Science in personalized precision medicine and health.
-**Instituto de Salud Carlos III (Madrid).**  
-Co-directed by Fátima Al-Shahrour.  
-**Coordination:** Tomás di Domenico, Gonzalo Gómez.  
-**Lecturers:** Ruth Álvarez, Tomás Di Domenico,  Santiago García, Gonzalo Gómez, María José Jimenez, Oscar Lapuente, Elena Piñeiro.  
-Since 2018.  
-[More info](http://www.masterbioinformatica.com/)
 
 ### Master in Cancer Immunotherapy.
 **Universidad Internacional Menéndez Pelayo.**  
