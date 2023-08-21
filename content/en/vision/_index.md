@@ -23,4 +23,6 @@ Science, for us, is not merely a detached endeavour; it is an integral part of o
 
 We are committed to upholding and integrating these principles into our daily work. Our dedication lies in making a positive impact, not only in the lives of the patients we serve but also within the broader scientific community and society.
 
-![Bioinformatics Unit](../images/team/Bioinformatics_Unit.jpg)
+![Our vision concept](../images/home/our_vision_concept.jpeg)
+
+[Image by vectorjuice](https://www.freepik.com/free-vector/business-team-brainstorm-idea-lightbulb-from-jigsaw-working-team-collaboration-enterprise-cooperation-colleagues-mutual-assistance-concept-pinkish-coral-bluevector-isolated-illustration_11667116.htm) on Freepik
