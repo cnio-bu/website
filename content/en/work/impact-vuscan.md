@@ -5,7 +5,7 @@ date: 2018-12-20
 weight: 3
 portfolio: ["research"]
 header_transparent: true
-thumbnail: "images/gen/projects/research.webp"
+thumbnail: "images/gen/projects/impact-vuscan_bg.svg"
 hero:
   background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"

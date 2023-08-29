@@ -5,7 +5,7 @@ date: 2018-12-20
 weight: 2
 portfolio: ["research"]
 header_transparent: true
-thumbnail: "images/gen/projects/research.webp"
+thumbnail: "images/gen/projects/gencode_bg.svg"
 hero:
   background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
