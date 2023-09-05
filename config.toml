@@ -1,4 +1,4 @@
-baseURL = "https://matrix.bioinformatics.cnio.es/"
+baseURL = "https://bioinformatics.cnio.es/"
 title = "CNIO Bioinformatics Unit"
 theme = "hugo-advance"
 paginate = 3
