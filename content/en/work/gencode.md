@@ -1,7 +1,6 @@
 ---
 title: "The GENCODE project"
 description: "Creating a reference human genome annotation"
-date: 2018-12-20
 weight: 2
 portfolio: ["research"]
 header_transparent: true

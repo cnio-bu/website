@@ -1,7 +1,6 @@
 ---
 title: "EOSC4Cancer"
 description: "A European-wide foundation to accelerate data-driven cancer research"
-date: 2018-12-20
 weight: 3
 portfolio: ["research"]
 header_transparent: true

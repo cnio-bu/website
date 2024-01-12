@@ -1,7 +1,6 @@
 ---
 title: "Immunotherapy"
 description: "Harnessing the immune system in the fight against cancer"
-date: 2018-12-20
 weight: 4
 portfolio: ["research"]
 header_transparent: true

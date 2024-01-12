@@ -1,7 +1,6 @@
 ---
 title: "Cancer Patient Genome Analysis"
 description: "Understanding the cancer patient's genome to create better therapies"
-date: 2018-12-20
 weight: 1
 portfolio: ["research"]
 header_transparent: true

@@ -1,7 +1,6 @@
 ---
 title: "IMPaCT-VUScan"
 description: "A new strategy for undiagnosed hereditary cancers"
-date: 2018-12-20
 weight: 3
 portfolio: ["research"]
 header_transparent: true
