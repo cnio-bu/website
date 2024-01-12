@@ -1,7 +1,6 @@
 ---
 title: "IMPaCT-Data"
 description: "Data Science Program of the Precision Medicine Infrastructure associated with Science and Technology"
-date: 2018-12-20
 weight: 3
 portfolio: ["research"]
 header_transparent: true

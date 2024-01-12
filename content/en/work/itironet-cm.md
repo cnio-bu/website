@@ -1,7 +1,6 @@
 ---
 title: "iTIRONET-CM"
 description: "Dissecting cellular heterogeneity in thyroid diseases"
-date: 2018-12-20
 weight: 3
 portfolio: ["research"]
 header_transparent: true
