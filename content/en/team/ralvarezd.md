@@ -3,7 +3,7 @@ title: 'Ruth Álvarez Díaz'
 linktitle: 'Alvarez'
 draft: false
 weight: 2
-thumbnail: 'images/team/thumbnails/Alvarez_Ruth.png'
+thumbnail: 'images/team/thumbnails/Alvarez_Ruth.jpg'
 image: 'images/team/default.jpg'
 jobtitle: 'Bioinformatician'
 links:
