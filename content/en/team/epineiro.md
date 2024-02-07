@@ -3,7 +3,7 @@ title: 'Elena Piñeiro-Yáñez'
 linktitle: 'Piñeiro'
 draft: false
 weight: 2
-thumbnail: 'images/team/thumbnails/Pineiro_Elena.png'
+thumbnail: 'images/team/thumbnails/Pineiro_Elena.jpg'
 image: 'images/team/Pineiro_Elena.png'
 jobtitle: 'Bioinformatician'
 links:

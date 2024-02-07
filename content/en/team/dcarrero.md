@@ -3,7 +3,7 @@ title: 'Dido Carrero Muñiz'
 linktitle: 'Carrero'
 draft: false
 weight: 2
-thumbnail: 'images/team/thumbnails/Carrero_Dido.jpeg'
+thumbnail: 'images/team/thumbnails/Carrero_Dido.jpg'
 image: 'images/team/default.jpg'
 jobtitle: 'Postdoctoral Fellow'
 links:
