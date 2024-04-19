@@ -14,7 +14,7 @@ work:
   heading_label:
   image: "images/projects/renacer_logo.png"
   brief: "The Spanish National Network of Brain Metastasis (RENACER) is a collaborative effort encompassing nearly 20 research institutions and health care institutions. The joint work of all of them has the objective of identifying, gathering, biobanking, and validating new candidates, drugs, and biomarkers for human brain metastasis."
-  link: "https://www.cnio.es/en/news/cnio-news/renacer-national-brain-metastasis-network/"
+  link: "https://renacerbrainmet.com/"
   link_title: RENACER
 ---
 
