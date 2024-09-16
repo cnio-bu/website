@@ -4,7 +4,7 @@ linktitle: 'Lapuente'
 draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Lapuente_Oscar.jpg'
-image: 'images/team/default.jpg'
+image: 'images/team/Lapuente_Oscar.jpg'
 jobtitle: 'Postdoctoral Fellow'
 links:
   - url: 'https://orcid.org/0000-0003-1995-8393'

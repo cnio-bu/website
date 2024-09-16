@@ -4,7 +4,7 @@ linktitle: 'Soriano'
 draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Soriano_Francisco-Javier.jpg'
-image: 'images/team/default.jpg'
+image: 'images/team/Soriano_Francisco-Javier.jpg'
 jobtitle: 'Bioinformatician'
 links:
   - url: 'https://orcid.org/0000-0002-8275-285X'
