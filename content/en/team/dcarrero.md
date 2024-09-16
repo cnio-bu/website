@@ -4,7 +4,7 @@ linktitle: 'Carrero'
 draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Carrero_Dido.jpg'
-image: 'images/team/default.jpg'
+image: 'images/team/Carrero_Dido.jpg'
 jobtitle: 'Postdoctoral Fellow'
 links:
   - url: 'https://orcid.org/0000-0001-7869-838X'

@@ -4,7 +4,7 @@ linktitle: 'Al-Shahrour'
 draft: false
 weight: 1
 thumbnail: 'images/team/thumbnails/Al-Shahrour_Fatima.jpg'
-image: 'images/team/Al-Shahrour_Fatima.jpeg'
+image: 'images/team/Al-Shahrour_Fatima.jpg'
 jobtitle: 'Head of the Bioinformatics Unit'
 links:
   - url: 'http://orcid.org/0000-0003-2373-769X'

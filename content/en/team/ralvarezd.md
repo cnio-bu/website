@@ -4,7 +4,7 @@ linktitle: 'Alvarez'
 draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Alvarez_Ruth.jpg'
-image: 'images/team/default.jpg'
+image: 'images/team/Alvarez_Ruth.jpg'
 jobtitle: 'Bioinformatician'
 links:
   - url: 'https://www.linkedin.com/in/ruthalvarezdiaz/'
