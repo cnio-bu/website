@@ -17,7 +17,7 @@ hero:
 
 - **Francisco José Villena González** – MSc student in Bioinformatics (ISCIII) since May 2024. *Ongoing*
 - **Irene Benito Cedillo** – MSc student in Bioinformatics (ISCIII) since May 2024. *Ongoing*
-- **Sara Vidal Notari** – Visitor PhD student (UCM) since May 2024. *Ongoing*
+- **Sara Vidal Notari** – Visitor PhD student (UCM) since June 2024. *Ongoing*
 - **Marcos Rubio Fernández** – Visiting researcher (Hospital Universitario 12 de Octubre) since January 2024 – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024. *Ongoing*
 - **Carlos Carretero** – Visiting researcher (Hospital Universitario 12 de Octubre) since March 2024 – PhD student (Hospital Universitario 12 de Octubre, UAM) from September 2018 to March 2024. *Ongoing*
 - **Gabriel Piedrafita Fernández** – Visiting researcher (UCM) since 2019. *Ongoing*
