@@ -13,6 +13,6 @@ links:
 ---
 
 - BSc in Organic Chemistry (University of Oviedo)
-- MSc in Bioinformatics (ISCIII)
+- MSc in Bioinformatics (Escuela Nacional de Sanidad, ISCIII, Madrid)
 - PhD in Biochemistry and Molecular Biology (University of Oviedo)
 - In the Bioinformatics Unit from November 2022

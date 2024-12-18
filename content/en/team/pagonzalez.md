@@ -13,5 +13,5 @@ links:
 ---
 
 - Bsc in Biology (Complutense University of Madrid)
-- MSc in Bioinformatics (ISCIII)
+- MSc in Bioinformatics (Escuela Nacional de Sanidad, ISCIII, Madrid)
 - In the Bioinformatics Unit since December 2023
