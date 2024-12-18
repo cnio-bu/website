@@ -21,6 +21,7 @@ hero:
 - **Marcos Rubio Fernández** – Visiting researcher (Hospital Universitario 12 de Octubre) since January 2024 – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024. *Ongoing*
 - **Carlos Carretero** – Visiting researcher (Hospital Universitario 12 de Octubre) since March 2024 – PhD student (Hospital Universitario 12 de Octubre, UAM) from September 2018 to March 2024. *Ongoing*
 - **Gabriel Piedrafita Fernández** – Visiting researcher (UCM) since 2019. *Ongoing*
+- **Maria José Jiménez** – MSc student in Bioinformatics (UAM), 2018 – PhD student (UAM) from September 2019 to October 2024.
 - **José Manuel Lamas Pérez** – MSc student in Artificial Inteligence (UPM) since February 2024 – Currently in the Bioinformatics Unit at CNIO.
 - **Santiago García Martín** – MSc student in Bioinformatics (ISCIII) from May 2019 to January 2019 – PhD student (UAM) from February 2019 to June 2024.
 - **Pablo González Martínez** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Currently in the Bioinformatics Unit at CNIO.
@@ -44,7 +45,6 @@ hero:
 - **José Antonio López Martín**, MD, PhD – Visitor (Hospital 12 de Octubre), July 2019.
 - **Javier Perales Patón** – PhD student (UAM) from March 2014 to December 2019.
 - **Manuel Moradiellos** – BSc student Biology (UAM) – Summer student, July 2018 and August 2019 - Currently in the Computational Cancer Genomics Group at CNIO.
-- **Maria José Jiménez** – MSc student in Bioinformatics (UAM), 2018 – Currently in the Bioinformatics Unit at CNIO.
 - **Diana De La Iglesia**, PhD – Bioinformatician from 2018 to 2019 – Currently in Fujitsu Research.
 - **Alfonso Esteban Lasso** – MSc student in Bioinformatics (UOC) from November 2018 to May 2019.
 - **Hector Tejero Franco**, PhD – Postdoc from 2013 to 2019 – Currently in the Ministry of Health of the Government of Spain.

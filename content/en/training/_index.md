@@ -20,9 +20,27 @@ hero:
 **Instituto de Salud Carlos III (Madrid).**  
 Co-directed by Fátima Al-Shahrour.  
 **Coordination:** Tomás di Domenico, Gonzalo Gómez.  
-**Lecturers:** Ruth Álvarez, Dido Carrero, Tomás Di Domenico, Santiago García, Gonzalo Gómez, María José Jimenez, Oscar Lapuente, Elena Piñeiro.  
+**Lecturers:** Dido Carrero, Tomás Di Domenico, Gonzalo Gómez, Elena Piñeiro.  
 Since 2018.  
 [More info](http://www.masterbioinformatica.com/)
+
+## Master in Omics Sciences and Technologies
+**Alfonso X el Sabio (Madrid).**  
+**Lecturer:** Óscar Lapuente.  
+Since 2023.  
+[More info](https://www.uax.com/titulaciones/master-online-en-ciencias-y-tecnologias-omicas)
+
+## Telemedicine and Machine Learning in Bachelor's Degree in Engineering in Telecommunications Technologies
+**Universidad Pontificia Comillas (Madrid).**  
+**Lecturer:** Dido Carrero.  
+Since 2023.  
+[More info](https://www.comillas.edu/en/degrees/bachelors-degree-in-engineering-in-telecommunications-technologies-gitt/)
+
+## Master in Human Microbiota
+**Universidad Nebrija (Madrid).**  
+**Lecturer:** Dido Carrero.  
+Since 2023.  
+[More info](https://www.nebrija.com/en/postgraduate-degree/master/human-microbiota/)
 
 ### Andalusian Program of Training in Personalized and Precision Medicine (PANMEP).  
 **Department of Health and Consumer Affairs of the Regional Government of Andalusia and the International University of Andalusia. IAVANTE - Foundation for Progress and Health.**     
@@ -61,7 +79,7 @@ Since 2013.
 Until 2021.  
 [More info](https://aplicaciones.uc3m.es/cpa/generaFicha?&est=350&asig=16803&idioma=2)
 
-### Course on “Advanced Bioinformatics”.
+### Course on Advanced Bioinformatics.
 **Universidad Francisco de Vitoria (Madrid).**  
 **Lecturers:** Fátima Al-Shahrour, Gonzalo Gómez, Osvaldo Graña, Elena Piñeiro, Fernando Pozo.  
 Until 2022.
