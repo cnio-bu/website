@@ -1,8 +1,13 @@
 [
   {
-    "title": "Twitter",
-    "fa_icon": "fab fa-twitter",
+    "title": "Twitter-X",
+    "fa_icon": "fab fa-twitter-x",
     "url": "https://twitter.com/BU_CNIO"
+  },
+  {
+    "title": "Bluesky",
+    "fa_icon": "fab fa-bluesky",
+    "url": "https://bsky.app/profile/bu-cnio.bsky.social"
   },
   {
     "title": "Github",
