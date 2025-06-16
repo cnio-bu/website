@@ -15,15 +15,16 @@ hero:
 
 ## Visiting and Former Members
 
-- **Alberto Bastero Anegon** – MSc student in Engineering (CentraleSupélec), bioinformatics intern since February 2025. *Ongoing* 
+- **Cristina Pastor López** – MSc student in Bioinformatics (ISCIII) since May 2025. *Ongoing*
 - **Sara Vidal Notari** – Visitor PhD student (UCM) since June 2024. *Ongoing*
-- **Marcos Rubio Fernández** – Visiting researcher (Hospital Universitario 12 de Octubre) since January 2024 – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024. *Ongoing*
-- **Carlos Carretero** – Visiting researcher (Hospital Universitario 12 de Octubre) since March 2024 – PhD student (Hospital Universitario 12 de Octubre, UAM) from September 2018 to March 2024. *Ongoing*
+- **Marcos Rubio Fernández** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since January 2024. *Ongoing*
+- **Carlos Carretero** – PhD student (Hospital Universitario 12 de Octubre, UAM) from September 2018 to March 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since March 2024. *Ongoing*
 - **Gabriel Piedrafita Fernández** – Visiting researcher (UCM) since 2019. *Ongoing*
+- **Alberto Bastero Anegon** – MSc student in Engineering (CentraleSupélec), bioinformatics intern from February 2025 to June 2025.
+- **José Manuel Lamas Pérez** – MSc student in Artificial Inteligence (UPM) from April 2024 to January 2025 – Bioinformatician from February 2025 to May 2025 – Currently doing a PhD (University of Santiago de Compostela).
 - **Francisco José Villena González** – MSc student in Bioinformatics (ISCIII) from May 2024 to January 2025 – Currently in the Bioinformatics Unit at CNIO.
 - **Irene Benito Cedillo** – MSc student in Bioinformatics (ISCIII) from May 2024 to January 2025.
 - **Maria José Jiménez** – MSc student in Bioinformatics (UAM), 2018 – PhD student (UAM) from September 2019 to October 2024.
-- **José Manuel Lamas Pérez** – MSc student in Artificial Inteligence (UPM) since February 2024 – Currently in the Bioinformatics Unit at CNIO.
 - **Santiago García Martín** – MSc student in Bioinformatics (ISCIII) from May 2019 to January 2019 – PhD student (UAM) from February 2019 to June 2024.
 - **Pablo González Martínez** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Currently in the Bioinformatics Unit at CNIO.
 - **María González Bermejo** – BSc student in Biochemistry (UAM), bioinformatics intern – MSc student in Bioinformatics (UAM) from September 2023 to January 2024 – Currently in the Bioinformatics Unit at CNIO.
