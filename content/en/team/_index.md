@@ -20,6 +20,8 @@ hero:
 - **Marcos Rubio Fernández** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since January 2024. *Ongoing*
 - **Carlos Carretero** – PhD student (Hospital Universitario 12 de Octubre, UAM) from September 2018 to March 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since March 2024. *Ongoing*
 - **Gabriel Piedrafita Fernández** – Visiting researcher (UCM) since 2019. *Ongoing*
+- **Óscar Lapuente Santana** – Postdoc from May 2023 to July 2025 – Currently in IOT Lenses.
+- **Miguel Maquedano Tirado** – Bioinformatician from January 2024 to June 2025 – Currently doing a PhD (UAM).
 - **Alberto Bastero Anegon** – MSc student in Engineering (CentraleSupélec), bioinformatics intern from February 2025 to June 2025.
 - **José Manuel Lamas Pérez** – MSc student in Artificial Inteligence (UPM) from April 2024 to January 2025 – Bioinformatician from February 2025 to May 2025 – Currently doing a PhD (University of Santiago de Compostela).
 - **Francisco José Villena González** – MSc student in Bioinformatics (ISCIII) from May 2024 to January 2025 – Currently in the Bioinformatics Unit at CNIO.
