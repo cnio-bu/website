@@ -20,6 +20,9 @@ hero:
 - **Marcos Rubio Fernández** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since January 2024. *Ongoing*
 - **Carlos Carretero** – PhD student (Hospital Universitario 12 de Octubre, UAM) from September 2018 to March 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since March 2024. *Ongoing*
 - **Gabriel Piedrafita Fernández** – Visiting researcher (UCM) since 2019. *Ongoing*
+- **Mohmed Abdalfttah** – PhD student (UAM) from September 2024 to October 2025.
+- **Pablo González Martínez** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Bioinformatician from January 2024 to August 2025.
+- **Francisco Javier Soriano Díaz** – Bioinformatician from October 2022 to August 2025.
 - **Óscar Lapuente Santana** – Postdoc from May 2023 to July 2025 – Currently in IOT Lenses.
 - **Miguel Maquedano Tirado** – Bioinformatician from January 2024 to June 2025 – Currently doing a PhD (UAM).
 - **Alberto Bastero Anegon** – MSc student in Engineering (CentraleSupélec), bioinformatics intern from February 2025 to June 2025.
@@ -28,7 +31,6 @@ hero:
 - **Irene Benito Cedillo** – MSc student in Bioinformatics (ISCIII) from May 2024 to January 2025.
 - **Maria José Jiménez** – MSc student in Bioinformatics (UAM), 2018 – PhD student (UAM) from September 2019 to October 2024.
 - **Santiago García Martín** – MSc student in Bioinformatics (ISCIII) from May 2019 to January 2019 – PhD student (UAM) from February 2019 to June 2024.
-- **Pablo González Martínez** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Currently in the Bioinformatics Unit at CNIO.
 - **María González Bermejo** – BSc student in Biochemistry (UAM), bioinformatics intern – MSc student in Bioinformatics (UAM) from September 2023 to January 2024 – Currently in the Bioinformatics Unit at CNIO.
 - **David Cáceres Gallardo** – Visitor (Hospital 12 de Octubre) from April 2023 to September 2023 – Currently in the Cancer Immunity Group at CNIO.
 - **Angela Surya** – BSc student in Bioinformatics (Indonesia International Institute for Life-Sciences), summer student from June 2023 to August 2023.
