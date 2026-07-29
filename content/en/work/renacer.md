@@ -1,7 +1,7 @@
 ---
 title: "RENACER"
 description: "Spanish National Network of Brain Metastasis"
-weight: 3
+weight: 2
 portfolio: ["research"]
 header_transparent: true
 thumbnail: "images/gen/projects/renacer_bg.svg"

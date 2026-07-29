@@ -1,7 +1,7 @@
 ---
 title: "The GENCODE project"
 description: "Creating a reference human genome annotation"
-weight: 2
+weight: 3
 portfolio: ["research"]
 header_transparent: true
 thumbnail: "images/gen/projects/gencode_bg.svg"

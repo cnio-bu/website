@@ -4,8 +4,8 @@ linktitle: 'Gomez'
 draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Gomez_Gonzalo.jpg'
-image: 'images/team/Gomez_Gonzalo.png'
-jobtitle: 'Computational Biologist'
+image: 'images/team/Gomez_Gonzalo.jpg'
+description: 'Computational Biologist'
 links:
   - url: 'http://orcid.org/0000-0002-4146-0551'
     label: ORCID
@@ -20,16 +20,18 @@ links:
 
 Hi there!
 
-I am Gonzalo Gómez (but people often call me Gon), a computational biologist with research expertise in the analysis of biological high-throughput experiments and cancer multi-omics data. I also enjoy teaching bioinformatics and molecular biology.
+I am Gonzalo (though most people call me Gon), a computational biologist with research expertise in the analysis of high-throughput biological data and cancer multi-omics. I also enjoy teaching bioinformatics and molecular biology.
 
-I studied the BSc in "Molecular Biology and Biochemistry" at Universidad Autónoma de Madrid ([UAM](http://www.uam.es/ss/Satellite/en/home.htm)). There I got a collaboration grant with the UAM Molecular Biology department to study the relationships between transcriptional regulation and chromatin structural complexes at [CBM Severo Ochoa](http://www.cbm.uam.es/joomla-rl/index.php/en/). In this time, I became more and more interested in translational research and the molecular biology of complex human diseases. Accordingly, I move in 2001 to Enrique Caso’s lab in the Clinical Oncology department at [Hospital Ramón y Cajal](http://www.madrid.org/cs/Satellite?pagename=HospitalRamonCajal/Page/HRYC_home) where I got my PhD studying the transcriptomics of micro-disseminated and metastatic cells in melanoma patients. During that time I came into contact with cancer, high-throughput experiments, multi-omics and, yes, of course, an emerging (and exciting) research field called bioinformatics… and that’s how bioinformatics began for me. I decided to learn bioinformatics so I got a MSc in Bioinformatics and Computational Biology at Universidad Complutense ([UCM](http://www.ucm.es/english)).
+I studied a BSc in Molecular Biology and Biochemistry at the Universidad Autónoma de Madrid ([UAM](https://www.uam.es/uam/inicio)). During this time, I received a collaboration grant from the Department of Molecular Biology to investigate the relationship between transcriptional regulation and chromatin structural complexes at the [CBM Severo Ochoa](https://www.cbm.uam.es/). This experience sparked my growing interest in translational research and the molecular basis of complex human diseases.
 
-Since 2008 I have a staff position at [CNIO](https://www.cnio.es/ing/index.asp) Bioinformatics Unit ([BU](https://bioinformatics.cnio.es/)). During these years I have been working on multiple collaborative projects with CNIO wet-lab and computational researchers. From 2014 to 2021 I was also an associated professor at UAM.
+In 2001, I joined to the Applied Molecular Oncology Lab in the Clinical Oncology Department at [Hospital Ramón y Cajal](https://www.comunidad.madrid/hospital/ramonycajal/), where I completed my PhD studying the transcriptomics of micro-disseminated and metastatic cells in melanoma and prostate cancer patients. There, I was first exposed to cancer research involving high-throughput technologies and multi-omics approaches—and, of course, to the emerging and exciting field of bioinformatics. That experience ultimately led me to formally train in the field, completing an MSc in Bioinformatics and Computational Biology at the Universidad Complutense de Madrid ([UCM](https://www.ucm.es/english)).
 
-Now I combine my research at BU with teaching responsibilities as academic coordinator of the "[Master in Bioinformatics applied to personalised medicine and health](https://masterbioinformatica.com/)" organised by the Instituto de Salud Carlos III ([ISCIII](https://www.isciii.es/Paginas/Inicio.aspx)).
+Since 2008, I have held a staff position at the Bioinformatics Unit ([BU](https://bioinformatics.cnio.es/)) of the [CNIO](https://www.cnio.es/). Over the years, I have collaborated on numerous projects with both experimental and computational groups. Between 2014 and 2021, I also served as an associate professor at UAM.
 
-My main scientific interests are:
+Currently, I combine my research at the BU with teaching responsibilities as Academic Coordinator of the [Master’s program in Bioinformatics Applied to Personalized Medicine and Health](https://masterbioinformatica.com/), organized by the Instituto de Salud Carlos III ([ISCIII](https://www.isciii.es/en/)).
+
+My main scientific interests include:
+
+- Developing new computational methods to predict effective anti-tumor therapies
+- Analyzing and interpreting multi-omics data from cancer patients to identify novel biomarkers and mechanisms of drug response.
 - Applying bioinformatics approaches to cancer immunotherapy.
-- Analysis and interpretation of cancer patients multi-omics to identify new biomarkers and mechanisms of drug response.
-- Developing new bioinformatics methodologies to predict effective anti-tumour treatments.
-

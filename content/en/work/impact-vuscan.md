@@ -1,7 +1,7 @@
 ---
 title: "IMPaCT-VUScan"
 description: "A new strategy for undiagnosed hereditary cancers"
-weight: 3
+weight: 2
 portfolio: ["research"]
 header_transparent: true
 thumbnail: "images/gen/projects/impact-vuscan_bg.svg"

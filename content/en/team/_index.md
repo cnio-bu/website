@@ -15,11 +15,12 @@ hero:
 
 ## Visiting and Former Members
 
-- **Cristina Pastor López** – MSc student in Bioinformatics (ISCIII) since May 2025. *Ongoing*
-- **Sara Vidal Notari** – Visitor PhD student (UCM) since June 2024. *Ongoing*
+- **David Mitel Mitel** – MSc student in Bioinformatics (ISCIII) since June 2026. *Ongoing*
 - **Marcos Rubio Fernández** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since January 2024. *Ongoing*
 - **Carlos Carretero** – PhD student (Hospital Universitario 12 de Octubre, UAM) from September 2018 to March 2024 – Visiting researcher (Hospital Universitario 12 de Octubre) since March 2024. *Ongoing*
-- **Gabriel Piedrafita Fernández** – Visiting researcher (UCM) since 2019. *Ongoing*
+- **Sara Vidal Notari** – Visitor PhD student (UCM) since June 2024 to June 2026.
+- **Gabriel Piedrafita Fernández** – Visiting researcher (UCM) since 2019 to June 2026.
+- **Cristina Pastor López** – MSc student in Bioinformatics (ISCIII) from May 2025 to January 2026. – Currently in the Bioinformatics Unit at CNIO.
 - **Mohmed Abdalfttah** – PhD student (UAM) from September 2024 to October 2025.
 - **Pablo González Martínez** – MSc student in Bioinformatics (ISCIII) from May 2023 to January 2024 – Bioinformatician from January 2024 to August 2025.
 - **Francisco Javier Soriano Díaz** – Bioinformatician from October 2022 to August 2025.

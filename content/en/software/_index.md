@@ -2,7 +2,8 @@
 title: "Software"
 description: "A list of tools developed by the CNIO Bioinformatics Unit"
 date: 2023-02-17
-summary_type: "summary-bio"
+summary_type: "summary-tool"
+novelty: true
 menu:
   main:
     identifier: tools

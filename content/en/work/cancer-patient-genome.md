@@ -1,7 +1,7 @@
 ---
 title: "Cancer Patient Genome Analysis"
 description: "Understanding the cancer patient's genome to create better therapies"
-weight: 1
+weight: 3
 portfolio: ["research"]
 header_transparent: true
 thumbnail: "images/gen/projects/cancer-patient-genome_bg.svg"

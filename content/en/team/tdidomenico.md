@@ -5,7 +5,7 @@ draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Di-Domenico_Tomas.jpg'
 image: 'images/team/Di-Domenico_Tomas.jpg'
-jobtitle: 'Bioinformatician'
+description: 'Bioinformatician'
 links:
   - url: 'http://orcid.org/0000-0003-2887-815X'
     label: ORCID

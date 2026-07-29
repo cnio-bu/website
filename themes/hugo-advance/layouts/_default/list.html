@@ -27,8 +27,34 @@
     {{ $pagesCount := len $pages }}
     {{ $summaryType := .Params.summary_type }}
     {{ if gt ($pagesCount) 0 }}
+
+        {{ if .Params.novelty }}
+        <div class="strip strip-novedades">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="novedades-box">
+                            <h2>What's New</h2>
+                            <div class="row">
+                                {{ range $i, $page := where .Pages "Params.novelty" true }}
+
+                                    {{ if gt $i 0 }}
+                                        <hr class="novedades-divider">
+                                    {{ end }}
+
+                                    {{ $page.Render "summary-novel-tool" }}
+
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+
         <div class="strip">
-            <div class="container ">
+            <div class="container">
                 <div class="row">
                     {{ range .Pages }}
                         <div class="col-12 col-md-6 col-lg-4 mb-3">
@@ -42,6 +68,7 @@
                 </div>
             </div>
         </div>
+
     {{ end }}
 
     {{ if .Content }}

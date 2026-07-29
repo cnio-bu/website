@@ -5,7 +5,7 @@ draft: false
 weight: 2
 thumbnail: 'images/team/thumbnails/Ocana_Beatriz.jpg'
 image: 'images/team/Ocana_Beatriz.jpg'
-jobtitle: 'Postdoctoral fellow'
+description: 'Postdoctoral fellow'
 links:
   - url: 'https://orcid.org/0000-0001-8931-3836'
     label: ORCID
@@ -18,7 +18,5 @@ links:
     icon: "fab fa-linkedin"
 ---
 
-- BSc in Physics (University of Córdoba)
-- MSc in Biomedical Engineering (Valencian International University)
-- PhD in Physics and Mathematics (University of Castilla-La Mancha)
-- In the Bioinformatics Unit since January 2025
+Beatriz studied BSc in Physics (University of Córdoba, 2014) and PhD in Applied Mathematics (University of Castilla-La Mancha, 2024). Currently, she is a postdoctoral researcher at the Bioinformatics Unit of the Spanish National Cancer Research Centre (CNIO). Her research combines mathematical modeling, image analysis, and machine learning to study cancer dynamics, with a focus on brain tumors. She integrates clinical, imaging, and omics data to identify predictive biomarkers and improve patient-specific treatment strategies.
+
